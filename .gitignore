@@ -1,2 +1,4 @@
 test_gitignore.py
 test_gitignore_pasta/
+helloWorld.py~
+test_gitignore.py~
